@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manjunathck80
 - 👀 I’m interested in learning serverless deployment 
 - 🌱 I’m currently learning serverless 
-- 💞️ I’m looking to collaborate on other similar users
+- 💞️ I’m looking to collaborate with other similar users
 - 📫 How to reach me : manjunathck@gmail.com
 
 <!---
